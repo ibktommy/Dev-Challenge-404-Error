@@ -49,7 +49,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - What have you learned/improved? <br>
   I have learn more about using GIT Bash to create a repository and also uploading my websites on NETLIFY.
 
-- Your wisdom? 
+- Your wisdom? <br>
   I am delighted to have found devchallenges.io Appreciation goes to the creator of this wonderful online challenge website. More challenges like these are needed especially for beginners and most of us that are self-taught developers. Thanks <br>:)
 
 ### Built With
