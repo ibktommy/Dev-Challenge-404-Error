@@ -40,22 +40,22 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
+- Where can I see your demo? <br>
   The Challenge demo can be accessed by clicking on the @netlify link above, under the SOLUTION heading.
 
-- What was your experience?
+- What was your experience? <br>
   Taking the challenge has been helpful in enabling me to remember some of the things I learnt while I was taking an Udemy course on creating a modern website using techniques like the flexbox system.
 
-- What have you learned/improved?
+- What have you learned/improved? <br>
   I have learn more about using GIT Bash to create a repository and also uploading my websites on NETLIFY.
 
-- Your wisdom?
-  I am delighted to have found devchallenges.io Appreciation goes to the creator of this wonderful online challenge website. More challenges like these are needed especially for beginners and most of us that are self-taught developers. Thanks :)
+- Your wisdom? 
+  I am delighted to have found devchallenges.io Appreciation goes to the creator of this wonderful online challenge website. More challenges like these are needed especially for beginners and most of us that are self-taught developers. Thanks <br>:)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-  -[HTML](https://html.com/)
+  -[HTML](https://html.com/)<br>
   -[CSS](https://www.w3schools.com/css/css_intro.asp)
 
 ## Features
