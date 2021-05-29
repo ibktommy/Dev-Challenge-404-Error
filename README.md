@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://ibktommy404-error-devchallenge.netlify.app/">
       Solution
     </a>
     <span> | </span>
