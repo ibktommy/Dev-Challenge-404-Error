@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{404 NOT FOUND}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="{https://github.com/ibktommy/Dev-Challenge-404-Error}">
       Demo
     </a>
     <span> | </span>
@@ -36,22 +36,27 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/ibktommy/Dev-Challenge-404-Error/blob/master/screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+  The Challenge demo can be accessed by clicking on the @netlify link above, under the SOLUTION heading.
+
 - What was your experience?
+  Taking the challenge has been helpful in enabling me to remember some of the things I learnt while I was taking an Udemy course on creating a modern website using techniques like the flexbox system.
+
 - What have you learned/improved?
-- Your wisdom? :)
+  I have learn more about using GIT Bash to create a repository and also uploading my websites on NETLIFY.
+
+- Your wisdom?
+  I am delighted to have found devchallenges.io Appreciation goes to the creator of this wonderful online challenge website. More challenges like these are needed especially for beginners and most of us that are self-taught developers. Thanks :)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+  -[HTML](https://html.com/)
+  -[CSS](https://www.w3schools.com/css/css_intro.asp)
 
 ## Features
 
@@ -62,14 +67,12 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
+<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+  - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+  - (https://www.udemy.com/course/the-modern-flexbox-grid-sass-animations-developer-course/)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@ibktommy](https://github.com/ibktommy)
+- Twitter [@ATOMQuadri](https://twitter.com/ATOMQuadri)

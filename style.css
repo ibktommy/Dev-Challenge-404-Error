@@ -1,0 +1,161 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+:root {
+	--logo-font: "Inconsalata", monospace;
+	--main-font: "Space Mono", monospace;
+	--white-color: #fff;
+	--main-color: #333;
+}
+
+body {
+	background-color: var(--white-color);
+	position: relative;
+	line-height: 1.6;
+	font-family: var(--main-font);
+}
+
+.container {
+	height: 100vh;
+	width: 100%;
+	max-width: 136rem;
+	margin: 0 auto;
+	background-color: var(--white-color);
+	position: relative;
+}
+
+.container > * {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.logo {
+	position: relative;
+	top: 5%;
+}
+
+.logo a {
+	text-decoration: none;
+	color: var(--main-color);
+	font-family: var(--logo-font);
+	font-size: 2.4rem;
+	font-weight: 700;
+}
+
+.main-header {
+	margin-top: 15rem;
+
+	display: flex;
+	justify-content: space-between;
+}
+
+.header-img {
+	flex: 1;
+	width: 55rem;
+	height: 45rem;
+}
+
+.header-img img {
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+}
+
+.header-text {
+	flex: 1;
+	align-self: flex-start;
+	color: var(--main-color);
+	margin: 2rem 0 0 10rem;
+}
+
+.header-text_title {
+	width: 56rem;
+	font-size: 6rem;
+	font-weight: 700;
+}
+
+.header-text_para {
+	width: 25rem;
+	font-size: 1.5rem;
+	font-weight: 300;
+	margin: 5rem 0 6rem 0;
+}
+
+.header-text_btn {
+	border: none;
+	width: max-content;
+	height: 5rem;
+	background-color: var(--main-color);
+	color: var(--white-color);
+	text-transform: uppercase;
+	font-family: var(--main-font);
+	padding: 0 2rem;
+	font-size: 1.2rem;
+	cursor: pointer;
+}
+
+/* MEDIA QUERY */
+@media screen and (max-width: 1250px) {
+	html {
+		font-size: 60%;
+	}
+}
+
+@media screen and (max-width: 1150px) {
+	html {
+		font-size: 55%;
+	}
+}
+
+@media screen and (max-width: 1050px) {
+	html {
+		font-size: 50%;
+	}
+
+	.logo {
+		left: 50%;
+		transform: translateX(-50%);
+	}
+
+	.main-header {
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.header-text {
+		align-self: center;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	html {
+		font-size: 45%;
+	}
+
+	.logo {
+		left: 50%;
+		transform: translateX(-40%);
+	}
+
+	.header-img {
+		width: 40rem;
+		height: 40rem;
+	}
+
+	.header-text_title {
+		font-size: 4rem;
+		width: 35rem;
+	}
+
+	.header-text_para {
+		width: 30rem;
+	}
+}
